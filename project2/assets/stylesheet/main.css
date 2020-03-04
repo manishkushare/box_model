@@ -1,0 +1,126 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.square    {
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    /* background-color: #F35048; */
+    margin-right: 15px;
+
+}
+.square1    {
+    background-color: #F35048;
+}
+.square_small    {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    
+    margin-right: 15px;
+}
+.square2    {
+    background-color: #368871;
+}
+.square3    {
+    /* display: inline-block;
+    width: 200px;
+    height: 200px; */
+    background-color: #BD72FB;
+}
+.container  {
+    margin: 10px 200px;
+}
+.square4    {
+    /* display: inline-block;
+    width: 200px;
+    height: 200px; */
+    background-color: #25C1FB;
+    /* margin-right: 15px; */
+    
+}
+.square5    {
+    /* display: inline-block;
+    width: 400px;
+    height: 200px; */
+    background-color: #5CCB80;
+    /* margin-right: 15px; */
+}
+.square6    {
+    /* display: inline-block;
+    width: 200px;
+    height: 200px; */
+    background-color: #71EA61;
+}
+.col2   {
+    margin: 10px 0;
+}
+.square7    {
+    /* display: inline-block;
+    width: 200px;
+    height: 200px; */
+    background-color: #E4ED3A;
+    /* margin-right: 15px; */
+}
+.square8    {
+    /* display: inline-block;
+    width: 200px;
+    height: 200px; */
+    background-color: #F67328;
+    /* margin-right: 15px; */
+}
+.square9    {
+    /* display: inline-block;
+    width: 400px;
+    height: 200px; */
+    background-color: #E5412E;
+    
+}
+p   {
+    color: white;
+    margin: 10px 20px;
+    font-weight: bold;
+}
+
+
+
